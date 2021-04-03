@@ -36,11 +36,11 @@
 |equality | == != |
 |bitwise AND | & |
 |bitwise exclusive OR | ^ |
-|bitwise inclusive OR | | |
+|bitwise inclusive OR | `|` |
 |logical AND | && |
-|logical OR | || |
+|logical OR | `||` |
 |ternary | ? : |
-|assignment | = += -= *= /= %= &= ^= |= <<= >>= >>>= |
+|assignment | = += -= *= /= %= &= ^= `|=` <<= >>= >>>= |
 
 #### ______________________________________________________
 
@@ -56,6 +56,7 @@
 ***Statements are roughly equivalent to sentences in natural languages. A statement forms a complete unit of execution. ***
 
 * ex: 
+
 ```
 // assignment statement
 aValue = 8933.234;
@@ -68,6 +69,7 @@ Bicycle myBike = new Bicycle();
 
 // declaration statement
 double aValue = 8933.234;
+
 ```
 
 ### Blocks:
@@ -83,6 +85,7 @@ double aValue = 8933.234;
 ### The if-then and if-then-else Statements:
 
 ex: 
+
 ```
 if (isMoving) {
         currentSpeed--;
