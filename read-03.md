@@ -60,18 +60,24 @@ It's the event when the error occur during the runtime, then the method which is
 **The try Block**:
 The first step in constructing an exception handler is to enclose the code that might throw an exception within a try block. In general, a try block looks like the following:
 
-```try {
+```
+
+try {
     code
 }
 
 catch and finally blocks . . .
+
 ```
+
 If an exception occurs within the try block, that exception is handled by an exception handler associated with it. To associate an exception handler with a try block, you must put a catch block after it.
 
 **The catch Block**:
 
 You associate exception handlers with a try block by providing one or more catch blocks directly after the try block. No code can be between the end of the try block and the beginning of the first catch block.
+
 ```
+
 try {
 
 } catch (ExceptionType name) {
@@ -79,6 +85,7 @@ try {
 } catch (ExceptionType name) {
 
 }
+
 ```
 
 #### Catching More Than One Type of Exception with One Exception Handler
@@ -86,11 +93,14 @@ try {
 In Java SE 7 and later, a single catch block can handle more than one type of exception. This feature can reduce code duplication and lessen the temptation to catch an overly broad exception.
 
 In the catch clause, specify the types of exceptions that block can handle, and separate each exception type with a vertical bar (|):
+
 ```
+
 catch (IOException|SQLException ex) {
     logger.log(ex);
     throw ex;
 }
+
 ```
 
 **The finally Block**
@@ -109,7 +119,9 @@ The finally block always executes when the try block exits. This ensures that th
 **Breaking Input into Tokens**:
 By default, a scanner uses white space to separate tokens.
 
-```Scanner s = null;
+```
+
+Scanner s = null;
 
 try {
     s = new Scanner(new BufferedReader(new FileReader("xanadu.txt")));
@@ -124,6 +136,7 @@ try {
 }
 
 ```
+
 ***To use a different token separator, invoke `useDelimiter()`, specifying a regular expression.***
 
 
