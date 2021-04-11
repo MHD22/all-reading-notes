@@ -41,8 +41,8 @@
 
 *Defining a Method with the Same Signature as a Superclass's Method*
 
-| Superclass Instance Method | Superclass Static Method |
-| -------------------------- | -------------------------- |
+|               |      Superclass Instance Method | Superclass Static Method |
+| ------------- |   ----------------------------- | -------------------------- |
 | Subclass Instance Method | Overrides | Generates a compile-time error |
 | Subclass Static Method | Generates a compile-time error | Hides |
 
