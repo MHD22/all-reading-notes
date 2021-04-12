@@ -12,7 +12,6 @@
 | Read 4   | [Link 4](https://mhd22.github.io/all-reading-notes/read-04)  |
 | Read 5   | [Link 5](https://mhd22.github.io/all-reading-notes/read-05)  |
 | Read 6   | [Link 6](https://mhd22.github.io/all-reading-notes/read-06)  |
-| Read 7   | [Link 7](https://mhd22.github.io/all-reading-notes/read-07)  |
 | Read 8   | [Link 8](https://mhd22.github.io/all-reading-notes/read-08)  |
 | Read 9   | [Link 9](https://mhd22.github.io/all-reading-notes/read-09)  |
 | Read 10  | [Link 10](https://mhd22.github.io/all-reading-notes/read-10) |
@@ -21,3 +20,4 @@
 | Read 13  | [Link 13](https://mhd22.github.io/all-reading-notes/read-13) |
 | Read 14  | [Link 14](https://mhd22.github.io/all-reading-notes/read-14) |
 | Read 15  | [Link 15](https://mhd22.github.io/all-reading-notes/read-15) |
+| Read 16  | [Link 16](https://mhd22.github.io/all-reading-notes/read-16) |
