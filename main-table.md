@@ -24,3 +24,4 @@
 | Read 19  | [Link 19](https://mhd22.github.io/all-reading-notes/read-19) |
 | Read 26  | [Link 26](https://mhd22.github.io/all-reading-notes/read-26) |
 | Read 27  | [Link 27](https://mhd22.github.io/all-reading-notes/read-27) |
+| Read 28  | [Link 28](https://mhd22.github.io/all-reading-notes/read-28) |
