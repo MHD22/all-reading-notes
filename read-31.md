@@ -195,7 +195,7 @@ Assertions verify the existence or contents of a View element through three main
    * If you choose the "text is" assertion, Espresso automatically inserts the text currently inside the selected View element. You can edit the text to match your desired assertion using the text field in the Edit assertion box.
 4. Click Save and Add Another to create another assertion or click Save Assertion to close the assertion panels.
 
-<!-- <img src="https://developer.android.com/studio/images/test/espresso-test-recorder-assertion_2-2_2x.png" /> -->
+<img src="https://developer.android.com/studio/images/test/espresso-test-recorder-assertion_2-2_2x.png" />
 
 
 ### Save a recording
