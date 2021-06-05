@@ -30,4 +30,7 @@
 | Read 31  | [Link 31](https://mhd22.github.io/all-reading-notes/read-31) |
 | Read 32  | [Link 32](https://mhd22.github.io/all-reading-notes/read-32) |
 | Read 33  | [Link 33](https://mhd22.github.io/all-reading-notes/read-33) |
-| Read 34  | [Link 34](https://mhd22.github.io/all-reading-notes/read-34) |
+| Read graph  | [Link](https://mhd22.github.io/all-reading-notes/read-34) |
+| Read 34  | [Link 34](https://mhd22.github.io/all-reading-notes/read-35) |
+| Read 36  | [Link 36](https://mhd22.github.io/all-reading-notes/read-36) |
+| Read 37  | [Link 37](https://mhd22.github.io/all-reading-notes/read-37) |
