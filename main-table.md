@@ -35,3 +35,4 @@
 | Read 36  | [Link 36](https://mhd22.github.io/all-reading-notes/read-36) |
 | Read 37  | [Link 37](https://mhd22.github.io/all-reading-notes/read-37) |
 | Read 38  | [Link 38](https://mhd22.github.io/all-reading-notes/read-38) |
+| Read 42  | [Link 42](https://mhd22.github.io/all-reading-notes/read-42) |
